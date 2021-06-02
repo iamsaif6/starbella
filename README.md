@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/starbella/blob/master/Screenshot%202021-06-02%20at%2012-34-31%20StarBella.png" width="700px" />
+<img src="https://github.com/iamsaif6/starbella/blob/master/starbella.gif" width="800px" />
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/starbella/ "Starbella")
 
